@@ -1,12 +1,12 @@
-# 🗒️ Registro de Trabajo en Clase - Taller X
+# 🗒️ Registro de Trabajo en Clase - Taller 1
 
 ## 📆 Fecha de la sesión
-_Indique la fecha de la clase en que se trabajó este taller._
+_7/02/2026_
 
 ## 👥 Integrantes presentes
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Valentina Ruiz Torres
+- Santiago Soler Prado
+- Darek Aljuri Martinez
 
 ## 🧠 Actividades realizadas en clase
 
