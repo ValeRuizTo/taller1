@@ -21,7 +21,7 @@ Se desarrollo toda la primera parte
 
 ## 🧩 Boceto inicial del modelo
 
-<img width="1123" height="582" alt="image" src="https://github.com/user-attachments/assets/aeef986f-1df1-4016-bd99-57efcd1149f9" />
+<img width="1151" height="577" alt="image" src="https://github.com/user-attachments/assets/cde6fbed-1fb2-45ea-9f33-7bb439db5efa" />
 
 ## 🔁 Tareas definidas para complementar el taller
 
