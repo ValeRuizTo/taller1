@@ -1,12 +1,12 @@
 # 📄 Informe Técnico del Taller
 
 ## 🔖 Nombre del Taller
-_Taller X - [Nombre completo del taller]_
+_Taller 1 - [BPMN]_
 
 ## 👥 Integrantes del equipo
-- Nombre 1 (correo o usuario GitHub)
-- Nombre 2
-- Nombre 3
+- Valentina Ruiz Torres (valentinaruito@unisabana.edu.co)
+- Santiago Soler Prado (santiagosopr@unisabana.edu.co)
+- Darek Aljuri Martinez (darekalma@unisabana.edu.co)
 
 ## 🧠 Descripción general del trabajo
 Describa brevemente el objetivo del taller y cómo se desarrolló la actividad.
