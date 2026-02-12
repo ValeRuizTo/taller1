@@ -10,8 +10,11 @@ _Taller 1 - [BPMN]_
 ## 📚 Referencias utilizadas
 
 -[1] ¿Qué es BPMN? Miro Help Center. Disponible en: https://miro.com/es/diagrama/que-es-bpmn/
+
 -[2] Bizagi, Best Practices in Process Modeling. Bizagi Help Platform. Disponible en: https://help.bizagi.com/platform/es/index.html?best_practices_in_modeling.htm
+
 -[3] OpenAI, ChatGPT — modelo de lenguaje grande entrenado por OpenAI, Fuente asistida por IA: ChatGPT, Febrero 2026.
+
 -[4] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
 
 ---
