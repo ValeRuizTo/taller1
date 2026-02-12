@@ -3,16 +3,16 @@
 Este archivo contiene las fuentes consultadas para el desarrollo del taller, tanto para el componente técnico como para la investigación complementaria.
 
 ## 🔖 Taller
-_Taller X - [Nombre del Taller]_
+_Taller 1 - [BPMN]_
 
 ---
 
 ## 📚 Referencias utilizadas
 
-1. Apellido, Nombre. *Título del libro o artículo*. Editorial, Año. URL o DOI.  
-2. Organización. *Especificación técnica o estándar consultado*. URL.  
-3. Sitio web institucional. "Título del artículo o página". [Enlace](https://ejemplo.com). Fecha de consulta: DD/MM/AAAA.  
-4. Otro recurso académico o técnico citado.
+[1] ¿Qué es BPMN? Miro Help Center. Disponible en: https://miro.com/es/diagrama/que-es-bpmn/
+[2] Bizagi, Best Practices in Process Modeling. Bizagi Help Platform. Disponible en: https://help.bizagi.com/platform/es/index.html?best_practices_in_modeling.htm
+[3] OpenAI, ChatGPT — modelo de lenguaje grande entrenado por OpenAI, Fuente asistida por IA: ChatGPT, Febrero 2026.
+[4] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
 
 ---
 
