@@ -81,11 +81,14 @@ El control del inventario depende en parte del conocimiento de una persona “Fe
 | Recepción de pieza      | Evento            | Confirmación de llegada del producto desde el proveedor                 | Empleado           |
 
 ## 🔍 Investigación complementaria
-### Tema investigado:
-(Ej: Buenas prácticas BPMN, comparación TOGAF vs C4, principios de seguridad STRIDE, etc.)
+### Tema investigado: Buenas prácticas BPMN
 
 ### Resumen:
-Describa en 2–3 párrafos lo investigado, citando fuentes cuando sea necesario. Incluya cómo se relaciona con el taller.
+Las mejores prácticas de modelamiento BPMN según Bizagi Modeler se basan en cuatro principios principales: mantener una secuencia lógica y clara, utilizar correctamente el estándar BPMN, nombrar adecuadamente los elementos y simplificar los diagramas. En primer lugar, se recomienda que todo proceso tenga eventos de inicio y fin explícitos, que el flujo siga una dirección consistente (usualmente de izquierda a derecha) y que el camino principal sea fácilmente identificable antes de agregar escenarios alternativos o excepciones. También se enfatiza conservar un formato visual uniforme, evitar cruces innecesarios de conectores y distinguir entre finales exitosos y no exitosos. El objetivo es que cualquier lector pueda comprender rápidamente la lógica del proceso sin ambigüedades ni sobrecarga visual.
+
+En segundo lugar, Bizagi destaca la importancia de respetar el uso formal del estándar BPMN, verificando la correcta aplicación de contenedores, carriles (lanes), actividades, compuertas y conectores. Esto implica no dibujar flujos fuera de los límites del proceso, no mezclar tareas entre carriles, utilizar compuertas para decisiones en lugar de tareas, balancear bifurcaciones y sincronizaciones, y diferenciar correctamente los flujos de secuencia (dentro del mismo proceso) de los flujos de mensaje (entre procesos distintos). Asimismo, se recomienda nombrar claramente los elementos actividades con verbo + objeto, procesos con descripciones completas y compuertas con condiciones o preguntas y simplificar los diagramas integrando tareas consecutivas del mismo actor, utilizando subprocesos embebidos o reutilizables para agrupar actividades relacionadas, aplicando patrones de proceso existentes y dejando los detalles menores en documentación externa. Estas prácticas buscan diagramas limpios, consistentes y fáciles de comunicar, que sirvan tanto para análisis como para mejora o futura automatización.
+
+La relación con el Taller directa, ya que el ejercicio de modelar el agendamiento de citas de la Clínica Salud Viva replica un escenario real del sector salud, uno de los ejemplos industriales más comunes de BPMN. Al aplicar buenas prácticas como identificar correctamente eventos de inicio y fin, actividades principales, gateways de disponibilidad y roles mediante lanes el equipo no solo cumple con la rúbrica de claridad y simbología correcta, sino que desarrolla un modelo que puede adaptarse posteriormente al cliente real asignado. De esta manera, la investigación sobre buenas prácticas y ejemplos sectoriales se convierte en un respaldo metodológico que conecta la teoría con la práctica del taller, demostrando que BPMN es una herramienta aplicable en contextos profesionales reales y no solo académicos.
 
 ## 📚 Referencias
 - [1] Apellido, Nombre. *Título*. Año. URL o DOI.
