@@ -73,11 +73,11 @@ El control del inventario depende en parte del conocimiento de una persona “Fe
 | Cliente                 | Actor             | Persona que solicita el diagnóstico o repuesto y realiza el pago        | Cliente            |
 | Empleado / Vendedor     | Actor             | Persona que revisa inventario, gestiona solicitudes y coordina la venta | Empresa            |
 | Proveedor               | Actor externo     | Empresa que suministra la pieza cuando no está disponible en inventario | Proveedor          |
-| Solicitud / Diagnóstico | Documento         | Requerimiento inicial realizado por el cliente                          | Cliente            |
+| Solicitud / Diagnóstico | Evento          | Requerimiento inicial realizado por el cliente                          | Cliente / empleado (dependiendo del caso)           |
 | Inventario              | Entidad           | Stock de piezas disponibles en la bodega                                | Empleado / Empresa |
 | Pieza o Repuesto        | Entidad           | Producto solicitado por el cliente                                      | Empresa            |
-| Solicitud de pieza      | Documento         | Pedido realizado al proveedor cuando no hay existencia                  | Empleado           |
-| Factura                 | Documento         | Documento que formaliza la venta del producto                           | Empresa            |
+| Solicitud de pieza      | Evento         | Pedido realizado al proveedor cuando no hay existencia                  | Empleado           |
+| Factura                 | Evento         | Documento que formaliza la venta del producto                           | Empresa            |
 | Recepción de pieza      | Evento            | Confirmación de llegada del producto desde el proveedor                 | Empleado           |
 
 ## 🔍 Investigación complementaria
