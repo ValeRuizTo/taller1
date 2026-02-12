@@ -91,8 +91,10 @@ En segundo lugar, Bizagi destaca la importancia de respetar el uso formal del es
 La relación con el Taller es directa, ya que el ejercicio de modelar el agendamiento de citas de la Clínica replica un escenario real del sector salud, uno de los ejemplos industriales más comunes de BPMN, asi mismo se podria decir que este puede ser aplicado a cualquier industria que busque estandarizar sus procesos y identificar áreas de mejora. Al aplicar buenas prácticas como identificar correctamente eventos de inicio y fin, actividades principales, gateways de disponibilidad y roles mediante lanes el equipo no solo cumple con la rúbrica de claridad y simbología correcta, sino que desarrolla un modelo que puede adaptarse posteriormente al cliente real asignado. De esta manera, la investigación sobre buenas prácticas y ejemplos sectoriales se convierte en un respaldo metodológico que conecta la teoría con la práctica del taller, demostrando que BPMN es una herramienta aplicable en contextos profesionales reales y no solo académicos.
 
 ## 📚 Referencias
-- [1] Apellido, Nombre. *Título*. Año. URL o DOI.
-- [2] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
+- [1] ¿Qué es BPMN? Miro Help Center. Disponible en: https://miro.com/es/diagrama/que-es-bpmn/
+- [2] Bizagi, Best Practices in Process Modeling. Bizagi Help Platform. Disponible en: https://help.bizagi.com/platform/es/index.html?best_practices_in_modeling.htm
+- [3] OpenAI, ChatGPT — modelo de lenguaje grande entrenado por OpenAI, respuesta proporcionada el 12 de febrero de 2026.
+- [4] Fuente oficial BPMN: https://www.omg.org/spec/BPMN/
 
 ---
 
