@@ -64,7 +64,9 @@ El control del inventario depende en parte del conocimiento de una persona “Fe
    - Que el tiempo de espera por parte del proveedor es indefinido 
 
 ## 📈 Diagrama final entregado
-<img width="1012" height="707" alt="image" src="https://github.com/user-attachments/assets/b6097e65-a419-49ce-815f-cfa27d550df8" />
+
+![.](BPMN.png)
+
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
 
