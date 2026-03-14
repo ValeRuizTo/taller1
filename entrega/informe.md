@@ -65,7 +65,7 @@ El control del inventario depende en parte del conocimiento de una persona “Fe
 
 ## 📈 Diagrama final entregado
 
-![.](BPMN.png)
+![.](BPMN.drawio.png)
 
 
 ## 📋 Tabla de actores, entidades o componentes (si aplica)
